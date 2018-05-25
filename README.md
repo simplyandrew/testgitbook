@@ -19,3 +19,5 @@ Your application’s splash screen should consist of a company logo and/or brand
 
 ![](https://lh5.googleusercontent.com/pOgw-tRyMxLdrwAxrNmXRYX6gDfk5eokK8q_GpZ43ciZCGFZaIfKNcLnexm5SkomzHHh5UzkaEJut7fYxHiUCy1kzFjUqd6oyrhzAbUnCeA6lW_0CNya2zwhkCby5tL1JLcIxFO-lrQ)
 
+![Testing a caption!](.gitbook/assets/devices.jpg)
+
