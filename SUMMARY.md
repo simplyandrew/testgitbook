@@ -1,8 +1,6 @@
 # Table of contents
 
-* [Chapter 1: Registration & Sign In](README.md)
-* [Introduction](introduction/README.md)
-  * Test
-* [Personas](untitled.md)
-* [Devices](devices.md)
+* [Exosite ExoHome Application UX/UI](README.md)
+* [Sign In & Account](sign-in-and-account.md)
+* [Splash](untitled.md)
 
